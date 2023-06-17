@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * Main - a program to print all combination of two digits
+ * main - a program to print all combination of two digits
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int i = '0';
@@ -31,9 +32,8 @@ int main(void)
 			}
 			j++;
 		}
-
-j = '0';
-i++;
+		j = '0';
+		i++;
 	}
 
 	return (0);
