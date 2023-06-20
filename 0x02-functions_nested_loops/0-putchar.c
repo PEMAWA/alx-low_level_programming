@@ -1,9 +1,11 @@
 #include <main.h>
+
 /**
  * main - Start of the program
  *
  * Retur: Always 0 (Success)
  */
+
 int main(void)
 {
 	_putchar('_');
